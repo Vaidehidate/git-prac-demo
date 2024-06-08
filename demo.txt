@@ -1,4 +1,4 @@
 First demo project from intellij to git project
 Comitting new changes from git to intellij using git fetch and merge request.
 Now Trying from pull request directly 
-Hiii... Its working finw whoohoo
+Hiii... Its working fine whoohoo
