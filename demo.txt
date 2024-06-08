@@ -1,1 +1,2 @@
 First demo project from intellij to git project
+Comitting new changes from git to intellij 
