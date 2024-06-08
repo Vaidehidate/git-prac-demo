@@ -1,2 +1,3 @@
 First demo project from intellij to git project
-Comitting new changes from git to intellij 
+Comitting new changes from git to intellij using git fetch and merge request.
+Now Trying from pull request directly 
